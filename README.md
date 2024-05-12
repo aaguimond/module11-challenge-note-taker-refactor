@@ -34,7 +34,7 @@
 
 [GitHub Repository](https://github.com/aaguimond/module11-challenge-note-taker-refactor)
 
----------------------- [Live Note Taking Application Refactor](placeholder)
+[Live Note Taking Application Refactor Via Render](https://module11-challenge-note-taker-refactor.onrender.com/)
 
 
 ## Media for Application
@@ -61,7 +61,7 @@ Referring to the media of the site [here](#media-of-application), a user simply 
 
 * Express version 4.19.2
 * UUID version 9.0.1
-
+* [Render](https://dashboard.render.com/)
 
 ## License
 
